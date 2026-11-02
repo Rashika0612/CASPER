@@ -23,4 +23,4 @@ The full list of GWTC event identifiers assigned to the training and test sets w
 and trained weights via a permanent GitHub + Zenodo repository upon acceptance.
 
 
-#If used without citations plagiarism will be considered
+#If used without citations plagiarism will be considered.
